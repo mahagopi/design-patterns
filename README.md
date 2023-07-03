@@ -1,2 +1,2 @@
-# design-patterns
+# Design-patterns
 Examples from the book Java Design Patterns by Vaskaran Sarcar
